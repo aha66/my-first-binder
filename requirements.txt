@@ -1,1 +1,1 @@
-ipypmpl
+matplotlib
